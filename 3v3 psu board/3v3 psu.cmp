@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = пет, 24 окт 2014 17:44:29 CEST
+
+BeginCmp
+TimeStamp = /544A37A3;
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = c_tant_D;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A383B;
+Reference = K1;
+ValeurCmp = OUTPUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A37F2;
+Reference = K2;
+ValeurCmp = INPUT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A3890;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A389F;
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A3754;
+Reference = U1;
+ValeurCmp = NCP1117ST33T3G;
+IdModule  = sot223;
+EndCmp
+
+EndListe
